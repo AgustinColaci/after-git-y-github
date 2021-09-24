@@ -3,6 +3,22 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    margin: 0 auto;
+    text-align: center;
+}
+
 .messi {
     height: 100px;
+    margin-top: 1.5rem;
+    border-radius: 1rem;
 }
